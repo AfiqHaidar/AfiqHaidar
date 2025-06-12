@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently an **Undergraduate student in Informatics Engineering at the Sepuluh Nopember Institute of Technology**
 
-- 🌱 I’m currently learning **FrontEnd Development, Machine Learning, & Data Analytics**
-
 - 🤝 I'm always **open to opportunities to work on new projects**
 
 - 📫 How to reach me **afiq.haidar12@gmail.com**
